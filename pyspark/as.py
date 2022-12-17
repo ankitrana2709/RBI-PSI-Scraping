@@ -1,3 +1,3 @@
-from pyspark.jobs import BirdsETLJob
+from jobs import BirdsETLJob
 foo=BirdsETLJob()
 food=foo.run()
